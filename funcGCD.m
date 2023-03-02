@@ -19,6 +19,3 @@ if mod(c,k)==0
 end
 end
 end
-
-
-
